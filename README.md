@@ -1,2 +1,5 @@
-# GitHub
- Primeiro repositório do cruso de Git e GitHub
+# GitHub - 1
+ Primeiro repositório do curso de Git e GitHub
+
+ primeira modificação do repositório via VS code;
+ 
